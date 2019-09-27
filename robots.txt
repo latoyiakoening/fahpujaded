@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaushaedai.grantamos.net/sitemap.xml
